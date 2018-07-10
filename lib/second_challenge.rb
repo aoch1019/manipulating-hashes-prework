@@ -8,7 +8,7 @@ def second_challenge
 
   #code your solution here!
 
-  new_array = second_challenge.values.flatten
-  return new_array
+  new_array = second_challenge.values
+  return new_array.flatten
 
 end
