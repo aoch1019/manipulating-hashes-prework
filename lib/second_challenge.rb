@@ -8,6 +8,6 @@ def second_challenge
 
   #code your solution here!
 
-  return second_challenge.values
+  return second_challenge.values.flatten
 
 end
