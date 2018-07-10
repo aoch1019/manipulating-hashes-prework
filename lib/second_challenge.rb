@@ -8,8 +8,7 @@ def second_challenge
 
   #code your solution here!
 
-  new_array = second_challenge.values
-  binding.pry
-  return new_array.flatten(1)
+  new_array = groceries.values
+  return new_array.flatten
 
 end
