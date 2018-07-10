@@ -9,6 +9,6 @@ def second_challenge
   #code your solution here!
 
   new_array = second_challenge.values
-  return new_array.flatten
+  return new_array.flatten(1)
 
 end
